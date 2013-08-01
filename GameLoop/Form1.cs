@@ -15,6 +15,12 @@ namespace GameLoop
         public Form1()
         {
             InitializeComponent();
+            _openGLControl.InitializeContexts();
+        }
+
+        private void Form1_Load(object sender, EventArgs e)
+        {
+
         }
     }
 }
