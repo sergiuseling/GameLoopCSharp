@@ -10,7 +10,7 @@ namespace GameLoop
 {
     static class Program
     {
-        static FastLoop _fastLoop = new FastLoop(GameLoop);
+        //static FastLoop _fastLoop = new FastLoop(GameLoop);
         /// <summary>
         /// The main entry point for the application.
         /// </summary>
