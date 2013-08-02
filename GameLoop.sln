@@ -3,6 +3,8 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Express 2012 for Windows Desktop
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GameLoop", "GameLoop\GameLoop.csproj", "{9B6AE27B-A598-45FB-854C-2AA663A32949}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GameStructure", "GameStructure\GameStructure.csproj", "{C175F930-9129-46D1-BC75-3E21E50FF44E}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -13,6 +15,10 @@ Global
 		{9B6AE27B-A598-45FB-854C-2AA663A32949}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{9B6AE27B-A598-45FB-854C-2AA663A32949}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{9B6AE27B-A598-45FB-854C-2AA663A32949}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C175F930-9129-46D1-BC75-3E21E50FF44E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C175F930-9129-46D1-BC75-3E21E50FF44E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C175F930-9129-46D1-BC75-3E21E50FF44E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C175F930-9129-46D1-BC75-3E21E50FF44E}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
